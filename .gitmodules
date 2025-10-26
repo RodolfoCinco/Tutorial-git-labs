@@ -7,3 +7,6 @@
 [submodule "cloned_hello"]
 	path = cloned_hello
 	url = https://github.com/RodolfoCinco/cloned_hello
+[submodule "hello.git"]
+	path = hello.git
+	url = https://github.com/RodolfoCinco/hello_bare.git
