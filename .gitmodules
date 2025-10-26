@@ -1,0 +1,9 @@
+[submodule "hello"]
+	path = hello
+	url = https://github.com/RodolfoCinco/Gitimmersion-labs
+[submodule "network_hello"]
+	path = network_hello
+	url = https://github.com/RodolfoCinco/network_hello
+[submodule "cloned_hello"]
+	path = cloned_hello
+	url = https://github.com/RodolfoCinco/cloned_hello
